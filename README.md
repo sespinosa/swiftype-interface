@@ -10,7 +10,7 @@ Usage:
 
 You can import or require this library as:
 
-```
+```javascript
 import SwiftypeInterface from 'swiftype-interface'
 ```
 
@@ -26,7 +26,7 @@ Comes with 2 methods
 ### Search Example:
 
 
-```
+```javascript
 import SwiftypeInterface from 'swiftype-interface'
 
 SwiftypeInterface.search({
@@ -41,7 +41,7 @@ SwiftypeInterface.search({
 
 ### Suggestions example
 
-```
+```javascript
 import SwiftypeInterface from 'swiftype-interface'
 
 SwiftypeInterface.suggestions({
