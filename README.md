@@ -53,3 +53,6 @@ SwiftypeInterface.suggestions({
 }).catch(err => console.log(err))
 
 ```
+
+
+**This library sends the configuration object as the request body (POST), this is only a utility and should be used as is**
