@@ -1,10 +1,10 @@
-##Test:
+## Test:
 
 ```
 npm run test
 ```
 
-#####test are pending.
+##### test are pending.
 
 Usage:
 
@@ -23,7 +23,7 @@ Comes with 2 methods
 
 **The `search` and `suggestions` methods return a promise.**
 
-###Search Example:
+### Search Example:
 
 
 ```
@@ -39,7 +39,7 @@ SwiftypeInterface.search({
 
 ```
 
-###Suggestions example
+### Suggestions example
 
 ```
 import SwiftypeInterface from 'swiftype-interface'
